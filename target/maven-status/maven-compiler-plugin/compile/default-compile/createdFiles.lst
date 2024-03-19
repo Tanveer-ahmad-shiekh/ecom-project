@@ -1,0 +1,7 @@
+com\ecom\page\titles\PageTitles.class
+com\ecom\project\pages\Index.class
+com\ecom\project\pages\Login.class
+com\ecom\project\base\SetUp.class
+com\ecom\project\pages\ShoppinCart.class
+com\ecom\project\utility\Dd.class
+com\ecom\project\pages\Register.class

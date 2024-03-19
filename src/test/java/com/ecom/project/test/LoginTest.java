@@ -30,5 +30,13 @@ public class LoginTest {
 	   System.out.println("hello test");
 	}
 	
+	@Test
+	public void tests5()
+	{
+	   System.out.println("hello test");
+	}
+	
+	
+	
 	
 }

@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-19T23:09:22 IST" name="Suite" finished-at="2024-03-19T23:09:22 IST" duration-ms="299">
+  <suite started-at="2024-03-19T23:24:39 IST" name="Suite" finished-at="2024-03-19T23:24:40 IST" duration-ms="362">
     <groups>
     </groups>
-    <test started-at="2024-03-19T23:09:22 IST" name="Test" finished-at="2024-03-19T23:09:22 IST" duration-ms="299">
+    <test started-at="2024-03-19T23:24:39 IST" name="Test" finished-at="2024-03-19T23:24:40 IST" duration-ms="362">
       <class name="com.ecom.project.test.LoginTest">
-        <test-method signature="tests()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:09:22 IST" name="tests" finished-at="2024-03-19T23:09:22 IST" duration-ms="70" status="PASS">
+        <test-method signature="tests()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:24:39 IST" name="tests" finished-at="2024-03-19T23:24:39 IST" duration-ms="101" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tests -->
-        <test-method signature="tests1()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:09:22 IST" name="tests1" finished-at="2024-03-19T23:09:22 IST" duration-ms="4" status="PASS">
+        <test-method signature="tests1()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:24:40 IST" name="tests1" finished-at="2024-03-19T23:24:40 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tests1 -->
-        <test-method signature="tests2()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:09:22 IST" name="tests2" finished-at="2024-03-19T23:09:22 IST" duration-ms="7" status="PASS">
+        <test-method signature="tests2()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:24:40 IST" name="tests2" finished-at="2024-03-19T23:24:40 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tests2 -->
-        <test-method signature="tests3()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:09:22 IST" name="tests3" finished-at="2024-03-19T23:09:22 IST" duration-ms="6" status="PASS">
+        <test-method signature="tests3()[pri:0, instance:com.ecom.project.test.LoginTest@2ece4966]" started-at="2024-03-19T23:24:40 IST" name="tests3" finished-at="2024-03-19T23:24:40 IST" duration-ms="14" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tests3 -->
